@@ -2889,7 +2889,7 @@ msgstr "%d Trackbacks"
 #: bp-themes/bp-default/footer.php:7
 #, php-format
 msgid "%s is proudly powered by <a href=\"http://wordpress.org\">WordPress</a> and <a href=\"http://buddypress.org\">BuddyPress</a>"
-msgstr "%s läuft mit <a href=\"http://wordpress.org/\">WordPress</a> und <a href=\"http://bp-tutorials.de/\">BuddyPress</a>"
+msgstr "%s läuft mit <a href=\"http://de.wordpress.org/\">WordPress</a> und <a href=\"http://de.buddypress.org/\">BuddyPress</a>"
 
 #: bp-themes/bp-default/functions.php:64
 msgid "said:"
