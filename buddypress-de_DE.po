@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: BuddyPress (de_DE)\n"
+"Project-Id-Version: BuddyPress 1.2.2.1 (de_DE)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-03-13 18:36+0100\n"
+"POT-Creation-Date: 2010-03-13 18:57+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Dennis Morhardt <info@dennismorhardt.de>\n"
 "Language-Team: Dennis Morhardt <info@dennismorhardt.de>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Poedit-Country: Germany\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c;__ngettext_noop:1,2;_n_noop:1,2;_nc_noop:1,2\n"
-"X-Poedit-Basepath: ../../../BuddyPress - Trunk/\n"
+"X-Poedit-Basepath: ../../../../BuddyPress - 1.2/\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,-1,-1,-1,362\n"
 "X-Poedit-SearchPath-0: .\n"
 
@@ -193,17 +193,17 @@ msgid "Component Setup"
 msgstr "Komponenten-Installation"
 
 #: bp-core.php:344
-#: bp-xprofile.php:180
+#: bp-xprofile.php:179
 msgid "Profile"
 msgstr "Profil"
 
 #: bp-core.php:355
-#: bp-xprofile.php:185
+#: bp-xprofile.php:184
 msgid "Public"
 msgstr "Öffentliches Profil"
 
 #: bp-core.php:365
-#: bp-xprofile.php:191
+#: bp-xprofile.php:190
 msgid "My Profile"
 msgstr "Mein Profil"
 
@@ -494,7 +494,7 @@ msgid "Send Invites"
 msgstr "Einladungen senden"
 
 #: bp-groups.php:245
-#: bp-xprofile.php:221
+#: bp-xprofile.php:220
 msgid "Admin Options"
 msgstr "Administrationseinstellungen"
 
@@ -626,12 +626,12 @@ msgid "Group settings were successfully updated."
 msgstr "Die Gruppeneinstellungen wurden erfolgreich gespeichert."
 
 #: bp-groups.php:731
-#: bp-xprofile.php:442
+#: bp-xprofile.php:440
 msgid "Your avatar was deleted successfully!"
 msgstr "Das Bild wurde erfolgreich gelöscht!"
 
 #: bp-groups.php:733
-#: bp-xprofile.php:444
+#: bp-xprofile.php:442
 msgid "There was a problem deleting that avatar, please try again."
 msgstr "Ein Fehler ist beim Löschen des Bildes aufgetreten. Versuche es erneut."
 
@@ -993,66 +993,66 @@ msgstr "Re: %s"
 msgid "No Subject"
 msgstr "Kein Betreff"
 
-#: bp-xprofile.php:156
+#: bp-xprofile.php:155
 msgid "Profile Field Setup"
 msgstr "Profilfelder"
 
-#: bp-xprofile.php:186
+#: bp-xprofile.php:185
 msgid "Edit Profile"
 msgstr "Profil bearbeiten"
 
-#: bp-xprofile.php:187
+#: bp-xprofile.php:186
 msgid "Change Avatar"
 msgstr "Profilbild ändern"
 
-#: bp-xprofile.php:224
+#: bp-xprofile.php:223
 #, php-format
 msgid "Edit %s's Profile"
 msgstr "%s's Profil bearbeiten"
 
-#: bp-xprofile.php:225
+#: bp-xprofile.php:224
 #, php-format
 msgid "Edit %s's Avatar"
 msgstr "Bearbeite %s's Profibild"
 
-#: bp-xprofile.php:228
+#: bp-xprofile.php:227
 msgid "Mark as Spammer"
 msgstr "Als Spammer markieren"
 
-#: bp-xprofile.php:231
+#: bp-xprofile.php:229
 msgid "Not a Spammer"
 msgstr "Kein Spammer"
 
-#: bp-xprofile.php:234
+#: bp-xprofile.php:232
 #, php-format
 msgid "Delete %s"
 msgstr "%s löschen"
 
-#: bp-xprofile.php:327
+#: bp-xprofile.php:325
 msgid "Please make sure you fill in all required fields in this profile field group before saving."
 msgstr "Bitte überprüfe vorm Speichern ob du alle notwendigen Felder für diese Profilgruppe ausgefüllt hast."
 
-#: bp-xprofile.php:344
+#: bp-xprofile.php:342
 msgid "There was a problem updating some of your profile information, please try again."
 msgstr "Es gab ein Problem beim Aktualisieren deines Profiles. Bitte nochmal versuchen."
 
-#: bp-xprofile.php:346
+#: bp-xprofile.php:344
 msgid "Changes saved."
 msgstr "Änderungen gespeichert."
 
-#: bp-xprofile.php:395
+#: bp-xprofile.php:393
 msgid "There was a problem cropping your avatar, please try uploading it again"
 msgstr "Ein Fehler ist beim Schneiden deines Profilbildes aufgetreten. Versuche es erneut."
 
-#: bp-xprofile.php:397
+#: bp-xprofile.php:395
 msgid "Your new avatar was uploaded successfully!"
 msgstr "Dein neues Profilbild wurde erfolgreich hochgeladen!"
 
-#: bp-xprofile.php:464
+#: bp-xprofile.php:462
 msgid "New member registered"
 msgstr "Neues Mitglied"
 
-#: bp-xprofile.php:465
+#: bp-xprofile.php:463
 msgid "Updated Profile"
 msgstr "Profil aktualisiert"
 
@@ -3849,99 +3849,98 @@ msgstr "Auf der Startseite anzeigen:"
 msgid "Blog Posts"
 msgstr "Blogartikel"
 
-#: bp-xprofile/bp-xprofile-admin.php:44
+#: bp-xprofile/bp-xprofile-admin.php:40
 msgid "Your users will distinguish themselves through their profile page. You must give them profile fields that allow them to describe themselves in a way that is relevant to the theme of your social network."
 msgstr "Deine Benutzer werden sich durch ihre Profilseite beschreiben. Du musst ihnen die Profilfelder geben, die es ihnen erlauben, sich in einer Art selbst zu beschreiben, wie es für ein Social Network typisch ist."
 
-#: bp-xprofile/bp-xprofile-admin.php:45
+#: bp-xprofile/bp-xprofile-admin.php:41
 msgid "NOTE: Any fields in the first group will appear on the signup page."
 msgstr "HINWEIS: Felder in der ersten Gruppe erscheinen auf der Registrierungseite."
 
-#: bp-xprofile/bp-xprofile-admin.php:69
-#: bp-xprofile/bp-xprofile-admin.php:116
-msgid "Drag"
-msgstr "Verschiebe"
-
-#: bp-xprofile/bp-xprofile-admin.php:88
+#: bp-xprofile/bp-xprofile-admin.php:73
 msgid "Field Name"
 msgstr "Feldname"
 
-#: bp-xprofile/bp-xprofile-admin.php:89
-#: bp-xprofile/bp-xprofile-classes.php:615
+#: bp-xprofile/bp-xprofile-admin.php:74
+#: bp-xprofile/bp-xprofile-classes.php:610
 msgid "Field Type"
 msgstr "Feldtyp"
 
-#: bp-xprofile/bp-xprofile-admin.php:90
+#: bp-xprofile/bp-xprofile-admin.php:75
 msgid "Required?"
 msgstr "Erforderlich?"
 
+#: bp-xprofile/bp-xprofile-admin.php:76
+msgid "Action"
+msgstr "Aktion"
+
+#: bp-xprofile/bp-xprofile-admin.php:90
+msgid "Drag"
+msgstr "Verschiebe"
+
 #: bp-xprofile/bp-xprofile-admin.php:91
-msgid "Actions"
-msgstr "Aktionen"
-
-#: bp-xprofile/bp-xprofile-admin.php:97
-msgid "Add New Field"
-msgstr "Feld hinzufügen"
-
-#: bp-xprofile/bp-xprofile-admin.php:117
 msgid "(Core Field)"
 msgstr "(Standardfeld)"
 
-#: bp-xprofile/bp-xprofile-admin.php:130
+#: bp-xprofile/bp-xprofile-admin.php:103
 msgid "There are no fields in this group."
 msgstr "Es gibt keine Felder in dieser Gruppe."
 
-#: bp-xprofile/bp-xprofile-admin.php:142
-#: bp-xprofile/bp-xprofile-classes.php:180
+#: bp-xprofile/bp-xprofile-admin.php:113
+msgid "Add New Field"
+msgstr "Feld hinzufügen"
+
+#: bp-xprofile/bp-xprofile-admin.php:124
+#: bp-xprofile/bp-xprofile-classes.php:171
 msgid "Add New Field Group"
 msgstr "Feldgruppe hinzufügen"
 
-#: bp-xprofile/bp-xprofile-admin.php:148
+#: bp-xprofile/bp-xprofile-admin.php:128
 msgid "You have no groups."
 msgstr "Du hast keine Gruppen."
 
-#: bp-xprofile/bp-xprofile-admin.php:149
+#: bp-xprofile/bp-xprofile-admin.php:129
 msgid "Add New Group"
 msgstr "Gruppe hinzufügen"
 
-#: bp-xprofile/bp-xprofile-admin.php:177
+#: bp-xprofile/bp-xprofile-admin.php:157
 msgid "There was an error saving the group. Please try again"
 msgstr "Ein Fehler ist beim Speichern der Gruppe aufgetreten. Versuche es erneut."
 
-#: bp-xprofile/bp-xprofile-admin.php:180
+#: bp-xprofile/bp-xprofile-admin.php:160
 msgid "The group was saved successfully."
 msgstr "Die Gruppe wurde erfolgreich gespeichert."
 
-#: bp-xprofile/bp-xprofile-admin.php:209
+#: bp-xprofile/bp-xprofile-admin.php:189
 msgid "There was an error deleting the group. Please try again"
 msgstr "Ein Fehler ist beim Löschen der Gruppe aufgetreten. Versuche es erneut."
 
-#: bp-xprofile/bp-xprofile-admin.php:212
+#: bp-xprofile/bp-xprofile-admin.php:192
 msgid "The group was deleted successfully."
 msgstr "Die Gruppe wurde erfolgreich gelöscht."
 
-#: bp-xprofile/bp-xprofile-admin.php:251
+#: bp-xprofile/bp-xprofile-admin.php:231
 msgid "There was an error saving the field. Please try again"
 msgstr "Ein Fehler ist beim Speichern des Feldes aufgetreten. Versuche es erneut."
 
-#: bp-xprofile/bp-xprofile-admin.php:257
+#: bp-xprofile/bp-xprofile-admin.php:237
 msgid "The field was saved successfully."
 msgstr "Das Feld wurde erfolgreich gespeichert."
 
-#: bp-xprofile/bp-xprofile-admin.php:285
+#: bp-xprofile/bp-xprofile-admin.php:265
 msgid "field"
 msgstr "Feld"
 
-#: bp-xprofile/bp-xprofile-admin.php:287
+#: bp-xprofile/bp-xprofile-admin.php:267
 msgid "option"
 msgstr "Option"
 
-#: bp-xprofile/bp-xprofile-admin.php:292
+#: bp-xprofile/bp-xprofile-admin.php:273
 #, php-format
 msgid "There was an error deleting the %s. Please try again"
 msgstr "Ein Fehler ist beim Löschen der/die/das %s aufgetreten. Versuche es erneut."
 
-#: bp-xprofile/bp-xprofile-admin.php:295
+#: bp-xprofile/bp-xprofile-admin.php:276
 #, php-format
 msgid "The %s was deleted successfully!"
 msgstr "Der/die/das %s wurde erfolgreich gelöscht!"
@@ -3950,182 +3949,182 @@ msgstr "Der/die/das %s wurde erfolgreich gelöscht!"
 msgid "Please make sure you give the group a name."
 msgstr "Gib einen Gruppennamen an."
 
-#: bp-xprofile/bp-xprofile-classes.php:183
+#: bp-xprofile/bp-xprofile-classes.php:174
 msgid "Edit Field Group"
 msgstr "Feldguppe bearbeiten"
 
-#: bp-xprofile/bp-xprofile-classes.php:202
+#: bp-xprofile/bp-xprofile-classes.php:195
 msgid "Field Group Name"
 msgstr "Name der Feldgruppe"
 
-#: bp-xprofile/bp-xprofile-classes.php:503
+#: bp-xprofile/bp-xprofile-classes.php:495
 msgid "Please enter options for this Field:"
 msgstr "Bitte gib Optionen für dieses Feld an:"
 
-#: bp-xprofile/bp-xprofile-classes.php:506
+#: bp-xprofile/bp-xprofile-classes.php:499
 msgid "Order Entered"
 msgstr "In eingebener Reihenfolge"
 
-#: bp-xprofile/bp-xprofile-classes.php:507
+#: bp-xprofile/bp-xprofile-classes.php:500
 msgid "Name - Ascending"
 msgstr "Nach Name aufsteigend"
 
-#: bp-xprofile/bp-xprofile-classes.php:508
+#: bp-xprofile/bp-xprofile-classes.php:501
 msgid "Name - Descending"
 msgstr "Nach Name absteigend"
 
-#: bp-xprofile/bp-xprofile-classes.php:535
-#: bp-xprofile/bp-xprofile-classes.php:550
+#: bp-xprofile/bp-xprofile-classes.php:529
+#: bp-xprofile/bp-xprofile-classes.php:544
 msgid "Option"
 msgstr "Option"
 
-#: bp-xprofile/bp-xprofile-classes.php:537
-#: bp-xprofile/bp-xprofile-classes.php:551
+#: bp-xprofile/bp-xprofile-classes.php:531
+#: bp-xprofile/bp-xprofile-classes.php:545
 msgid "Default Value"
 msgstr "Standardwert"
 
-#: bp-xprofile/bp-xprofile-classes.php:557
+#: bp-xprofile/bp-xprofile-classes.php:550
 msgid "Add Another Option"
 msgstr "Neue Option hinzufügen"
 
-#: bp-xprofile/bp-xprofile-classes.php:565
+#: bp-xprofile/bp-xprofile-classes.php:558
 msgid "Add Field"
 msgstr "Feld hinzufügen"
 
-#: bp-xprofile/bp-xprofile-classes.php:574
+#: bp-xprofile/bp-xprofile-classes.php:567
 msgid "Edit Field"
 msgstr "Feld bearbeiten"
 
-#: bp-xprofile/bp-xprofile-classes.php:593
+#: bp-xprofile/bp-xprofile-classes.php:588
 msgid "Field Title"
 msgstr "Feldtitel"
 
-#: bp-xprofile/bp-xprofile-classes.php:600
+#: bp-xprofile/bp-xprofile-classes.php:595
 msgid "Field Description"
 msgstr "Feldbeschreibung"
 
-#: bp-xprofile/bp-xprofile-classes.php:607
+#: bp-xprofile/bp-xprofile-classes.php:602
 msgid "Is This Field Required?"
 msgstr "Ist dieses Feld erforderlich?"
 
-#: bp-xprofile/bp-xprofile-classes.php:609
+#: bp-xprofile/bp-xprofile-classes.php:604
 msgid "Not Required"
 msgstr "Nicht erforderlich"
 
-#: bp-xprofile/bp-xprofile-classes.php:610
+#: bp-xprofile/bp-xprofile-classes.php:605
 msgid "Required"
 msgstr "Erforderlich"
 
-#: bp-xprofile/bp-xprofile-classes.php:617
+#: bp-xprofile/bp-xprofile-classes.php:612
 msgid "Text Box"
 msgstr "Texteingabe"
 
-#: bp-xprofile/bp-xprofile-classes.php:618
+#: bp-xprofile/bp-xprofile-classes.php:613
 msgid "Multi-line Text Box"
 msgstr "Mehrzeilige Textbox"
 
-#: bp-xprofile/bp-xprofile-classes.php:619
+#: bp-xprofile/bp-xprofile-classes.php:614
 msgid "Date Selector"
 msgstr "Datumsauswahl"
 
-#: bp-xprofile/bp-xprofile-classes.php:620
+#: bp-xprofile/bp-xprofile-classes.php:615
 msgid "Radio Buttons"
 msgstr "Auswahlbuttons"
 
-#: bp-xprofile/bp-xprofile-classes.php:621
+#: bp-xprofile/bp-xprofile-classes.php:616
 msgid "Drop Down Select Box"
 msgstr "Auswahlbox"
 
-#: bp-xprofile/bp-xprofile-classes.php:622
+#: bp-xprofile/bp-xprofile-classes.php:617
 msgid "Multi Select Box"
 msgstr "Mehrfach-Auswahlbox"
 
-#: bp-xprofile/bp-xprofile-classes.php:623
+#: bp-xprofile/bp-xprofile-classes.php:618
 msgid "Checkboxes"
 msgstr "Kontrollkästchen"
 
-#: bp-xprofile/bp-xprofile-classes.php:630
+#: bp-xprofile/bp-xprofile-classes.php:625
 msgid "Save"
 msgstr "Speichern"
 
-#: bp-xprofile/bp-xprofile-classes.php:631
+#: bp-xprofile/bp-xprofile-classes.php:626
 msgid "or"
 msgstr "oder"
 
-#: bp-xprofile/bp-xprofile-classes.php:651
+#: bp-xprofile/bp-xprofile-classes.php:646
 msgid "Please make sure you fill out all required fields."
 msgstr "Bitte fülle alle erforderlichen Felder aus."
 
-#: bp-xprofile/bp-xprofile-classes.php:654
+#: bp-xprofile/bp-xprofile-classes.php:649
 msgid "Radio button field types require at least one option. Please add options below."
 msgstr "Radio Buttons erfordern mindestens eine Option. Bitte füge welche hinzu."
 
-#: bp-xprofile/bp-xprofile-classes.php:657
-#: bp-xprofile/bp-xprofile-classes.php:660
+#: bp-xprofile/bp-xprofile-classes.php:652
+#: bp-xprofile/bp-xprofile-classes.php:655
 msgid "Select box field types require at least one option. Please add options below."
 msgstr "Auswahlboxen erfordern mindestens eine Option. Bitte füge welche hinzu."
 
-#: bp-xprofile/bp-xprofile-classes.php:663
+#: bp-xprofile/bp-xprofile-classes.php:658
 msgid "Checkbox field types require at least one option. Please add options below."
 msgstr "Checkboxen erfordern mindestens eine Option. Bitte füge welche hinzu."
 
-#: bp-xprofile/bp-xprofile-templatetags.php:486
+#: bp-xprofile/bp-xprofile-templatetags.php:490
 msgid "January"
 msgstr "Januar"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:486
+#: bp-xprofile/bp-xprofile-templatetags.php:490
 msgid "February"
 msgstr "Februar"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:486
+#: bp-xprofile/bp-xprofile-templatetags.php:490
 msgid "March"
 msgstr "März"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:487
+#: bp-xprofile/bp-xprofile-templatetags.php:491
 msgid "April"
 msgstr "April"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:487
+#: bp-xprofile/bp-xprofile-templatetags.php:491
 msgid "May"
 msgstr "Mai"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:487
+#: bp-xprofile/bp-xprofile-templatetags.php:491
 msgid "June"
 msgstr "Juni"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:488
+#: bp-xprofile/bp-xprofile-templatetags.php:492
 msgid "July"
 msgstr "Juli"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:488
+#: bp-xprofile/bp-xprofile-templatetags.php:492
 msgid "August"
 msgstr "August"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:488
+#: bp-xprofile/bp-xprofile-templatetags.php:492
 msgid "September"
 msgstr "September"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:489
+#: bp-xprofile/bp-xprofile-templatetags.php:493
 msgid "October"
 msgstr "Oktober"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:489
+#: bp-xprofile/bp-xprofile-templatetags.php:493
 msgid "November"
 msgstr "November"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:489
+#: bp-xprofile/bp-xprofile-templatetags.php:493
 msgid "December"
 msgstr "Dezember"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:624
+#: bp-xprofile/bp-xprofile-templatetags.php:632
 msgid "Avatar uploads are currently disabled. Why not use a <a href=\"http://gravatar.com\" target=\"_blank\">gravatar</a> instead?"
 msgstr "Das Hochladen von Avataren ist zurzeit deaktiviert. Wieso nutzt du nicht stattdesen <a href=\"http://gravatar.com\" target=\"_blank\">Gravatar</a>?"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:633
+#: bp-xprofile/bp-xprofile-templatetags.php:641
 msgid "Profile not recently updated"
 msgstr "Profil wurde nicht kürzlich aktualisert"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:643
+#: bp-xprofile/bp-xprofile-templatetags.php:652
 #, php-format
 msgid "Profile updated %s ago"
 msgstr "Profil vor %s aktualisiert"
