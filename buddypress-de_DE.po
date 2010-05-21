@@ -79,7 +79,7 @@ msgstr "Ein Benutzer hat dich mit \"@%s\" in einem Update erwähnt"
 
 #: bp-activity.php:280
 msgid "A member replies to an update or comment you've posted"
-msgstr "Ein Benutzer hat einem deiner Updates bzw. einem deiner Kommentare geantwortet"
+msgstr "Ein Benutzer hat auf ein Update oder Kommentar von dir geantwortet"
 
 #: bp-activity.php:360
 msgid "Activity deleted"
@@ -305,7 +305,7 @@ msgstr "WICHTIG: <a href=\"http://codex.buddypress.org/getting-started/upgrading
 #: bp-core.php:2000
 #, php-format
 msgid "<strong>BuddyPress is almost ready</strong>. You must <a href=\"%s\">update your permalink structure</a> to something other than the default for it to work."
-msgstr "<strong>Die Installation von BuddyPress ist fast geschlossen</strong>. Du müsst deine <a href=\"%s\">Permalink-Struktur</a> aktualisieren (mit dem Standardwert kann BuddyPress leider nicht laufen)."
+msgstr "<strong>Die Installation von BuddyPress ist fast abgeschlossen</strong>. Du musst deine <a href=\"%s\">Permalink-Struktur</a> aktualisieren (mit dem Standardwert kann BuddyPress leider nicht laufen)."
 
 #: bp-core.php:2009
 #, php-format
@@ -1215,7 +1215,7 @@ msgstr "Kommentare: %s"
 #: bp-activity/feeds/bp-activity-favorites-feed.php:52
 #: bp-activity/feeds/bp-activity-friends-feed.php:48
 msgid "In reply to"
-msgstr "In Antwort zu"
+msgstr "In Antwort auf"
 
 #: bp-activity/feeds/bp-activity-friends-feed.php:21
 msgid "Friends Activity"
@@ -1372,7 +1372,7 @@ msgstr "Aktuelle Blogartikel"
 
 #: bp-blogs/bp-blogs-widgets.php:63
 msgid "Sorry, there were no blog posts found. Why not write one?"
-msgstr "Es wurden keine Blogs gefunden. Lust vieleicht einen zu schreiben?"
+msgstr "Es wurden noch keine Blogartikel gefunden. Schreib doch einen!"
 
 #: bp-blogs/bp-blogs-widgets.php:83
 msgid "Max posts to show:"
@@ -1413,7 +1413,7 @@ msgstr "Soll die Möglichkeit deaktiviert werden, dass sich Benutzer selber lös
 
 #: bp-core/bp-core-admin.php:88
 msgid "Disable global forum directory?"
-msgstr "Deaktiviere das globale Forenverzeichnis (Diskussionen)?"
+msgstr "Globales Forenverzeichnis deaktivieren?"
 
 #: bp-core/bp-core-admin.php:97
 msgid "Disable activity stream commenting on blog and forum posts?"
@@ -1608,7 +1608,7 @@ msgstr "Die Datei wurde nur zum Teil hochgeladen"
 
 #: bp-core/bp-core-avatars.php:247
 msgid "No file was uploaded"
-msgstr "Keine Datei wurde hochgeladen"
+msgstr "Es wurde keine Datei hochgeladen"
 
 #: bp-core/bp-core-avatars.php:248
 msgid "Missing a temporary folder"
@@ -1773,7 +1773,7 @@ msgstr "Deine angegebenen Passwörter stimmen nicht überein."
 
 #: bp-core/bp-core-signup.php:74
 msgid "This is a required field"
-msgstr "Dies Feld wird benötigt"
+msgstr "Dieses Feld wird benötigt"
 
 #: bp-core/bp-core-signup.php:168
 msgid "There was a problem uploading your avatar, please try uploading it again"
@@ -1794,7 +1794,7 @@ msgstr "Dein Benutzerkonto ist nun aktiviert!"
 
 #: bp-core/bp-core-signup.php:265
 msgid "Please enter a username"
-msgstr "Bitte gebe einen Benutzernamen an"
+msgstr "Bitte gib einen Benutzernamen an"
 
 #: bp-core/bp-core-signup.php:281
 msgid "Only lowercase letters and numbers allowed"
@@ -2190,7 +2190,7 @@ msgstr ""
 #: bp-groups/bp-groups-templatetags.php:1716
 #: bp-groups/bp-groups-templatetags.php:1733
 msgid "Recently Active"
-msgstr "Jüngst aktiv"
+msgstr "Zuletzt aktiv"
 
 #: bp-friends/bp-friends-templatetags.php:8
 #: bp-friends/bp-friends-templatetags.php:26
@@ -2328,7 +2328,7 @@ msgstr ""
 "Deine Mitgliedschaftsanfrage für die Gruppe \"%s\" wurde\n"
 " abgelehnt.\n"
 "\n"
-"Um eine andere Anfrage zu stelle, melde dich an und gehe zu: %s\n"
+"Um eine andere Anfrage zu stellen, melde dich an und gehe zu: %s\n"
 "\n"
 "---------------------\n"
 
@@ -2859,7 +2859,7 @@ msgstr "%d Trackbacks"
 #: bp-themes/bp-default/footer.php:7
 #, php-format
 msgid "%s is proudly powered by <a href=\"http://wordpress.org\">WordPress</a> and <a href=\"http://buddypress.org\">BuddyPress</a>"
-msgstr "%s läuft mit <a href=\"http://wordpress.org/\">WordPress</a> und <a href=\"http://bp-tutorials.de/\">BuddyPress</a>"
+msgstr "%s läuft mit <a href=\"http://de.wordpress.org/\">WordPress</a> und <a href=\"http://de.buddypress.org/\">BuddyPress</a>"
 
 #: bp-themes/bp-default/functions.php:52
 msgid "said:"
@@ -3340,7 +3340,7 @@ msgstr "Diese Gruppe wird nicht im Gruppenverzeichnis und in den Suchergebnissen
 
 #: bp-themes/bp-default/groups/create.php:114
 msgid "Upload an image to use as an avatar for this group. The image will be shown on the main group page, and in search results."
-msgstr "Lade einen Avatar für diese Gruppe hoch. Das Bild wird auf der Hauptseite der Gruppe und in den Sichergebnissen angezeigt."
+msgstr "Lade einen Avatar für diese Gruppe hoch. Das Bild wird auf der Hauptseite der Gruppe und in den Suchergebnissen angezeigt."
 
 #: bp-themes/bp-default/groups/create.php:118
 msgid "Upload Image"
@@ -3348,7 +3348,7 @@ msgstr "Profilbild hochladen"
 
 #: bp-themes/bp-default/groups/create.php:122
 msgid "To skip the avatar upload process, hit the \"Next Step\" button."
-msgstr "Um kein Profilbild hochzulade, einfach auf \"Nächster Schritt\" klicken."
+msgstr "Um kein Profilbild hochzuladen, klicke einfach auf \"Nächster Schritt\"."
 
 #: bp-themes/bp-default/groups/create.php:129
 msgid "Crop Group Avatar"
@@ -3368,7 +3368,7 @@ msgstr "Profilbild schneiden"
 
 #: bp-themes/bp-default/groups/create.php:175
 msgid "Select people to invite from your friends list."
-msgstr "Wähle Leute aus deiner Freundesliste zum einladen."
+msgstr "Lade Leute aus deiner Freundesliste ein."
 
 #: bp-themes/bp-default/groups/create.php:191
 msgid "Remove Invite"
@@ -3483,7 +3483,7 @@ msgstr "Es liegen keine Anfragen auf Gruppenmitgliedschaft vor."
 
 #: bp-themes/bp-default/groups/single/admin.php:289
 msgid "WARNING: Deleting this group will completely remove ALL content associated with it. There is no way back, please be careful with this option."
-msgstr "ACHTUNG: Das Löschen der Gruppe entfernt ALLE verknüpfte Inhalte. Es gibt keinen Weg zurück, also sei vorsichtig mit dieser Option."
+msgstr "ACHTUNG: Das Löschen der Gruppe entfernt ALLE verknüpften Inhalte. Es gibt keinen Weg zurück, also sei vorsichtig mit dieser Option."
 
 #: bp-themes/bp-default/groups/single/admin.php:292
 msgid "I understand the consequences of deleting this group."
