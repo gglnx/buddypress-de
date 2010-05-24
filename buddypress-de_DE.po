@@ -3768,7 +3768,7 @@ msgstr "Die Registrierung ist abgeschlossen!"
 
 #: bp-themes/bp-default/registration/register.php:226
 msgid "You have successfully created your account! To begin using this site you will need to activate your account via the email we have just sent to your address."
-msgstr "Dein Benutzerkonto wurde erfolgreich erstellt! Um ihn vollständig nutzen zu können müsst diesen mit einem Klick auf einen Link in der E-Mail, die wir dir gerade schicken, aktivieren."
+msgstr "Dein Benutzerkonto wurde erfolgreich erstellt! Um ihn vollständig nutzen zu können, musst du diesen mit einem Klick auf einen Link in der E-Mail, die wir dir gerade schicken, aktivieren."
 
 #: bp-themes/bp-default/registration/register.php:228
 msgid "You have successfully created your account! Please log in using the username and password you have just created."
