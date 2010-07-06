@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: BuddyPress 1.2.5.1 (de_DE)\n"
+"Project-Id-Version: BuddyPress 1.2.5.2 (de_DE)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-06-30 11:21+0100\n"
 "PO-Revision-Date: \n"
