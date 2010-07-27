@@ -2304,7 +2304,7 @@ msgid ""
 "\n"
 "---------------------\n"
 msgstr ""
-"Deine Mietglidschaftsanfrage für die Gruppe \"%s\" wurde\n"
+"Deine Mitgliedschaftsanfrage für die Gruppe \"%s\" wurde\n"
 "angenommen.\n"
 "\n"
 "Um zur Gruppe zu gelangen, melde dich an und gehe zu: %s\n"
@@ -3318,7 +3318,7 @@ msgstr "Das ist eine private Gruppe"
 
 #: bp-themes/bp-default/groups/create.php:80
 msgid "Only users who request membership and are accepted can join the group."
-msgstr "Ausschliesslich Benutzer, die eine Mitglidschaft beantragt haben und zugelassen wurden, können der Gruppe beitreten."
+msgstr "Ausschliesslich Benutzer, die eine Mitgliedschaft beantragt haben und zugelassen wurden, können der Gruppe beitreten."
 
 #: bp-themes/bp-default/groups/create.php:82
 #: bp-themes/bp-default/groups/create.php:91
