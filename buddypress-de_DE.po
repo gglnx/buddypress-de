@@ -3755,7 +3755,7 @@ msgstr "Blogtitel"
 
 #: bp-themes/bp-default/registration/register.php:193
 msgid "I would like my blog to appear in search engines, and in public listings around this site"
-msgstr "Mein Blog soll für jeden sichtbar sein (Suchmaschinen und Verzeichnise auf dieser Seite eingeschlossen)."
+msgstr "Mein Blog soll für jeden sichtbar sein (Suchmaschinen und Verzeichnisse auf dieser Seite eingeschlossen)."
 
 #: bp-themes/bp-default/registration/register.php:210
 msgid "Complete Sign Up"
