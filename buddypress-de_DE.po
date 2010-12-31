@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: BuddyPress 1.2.6 (de_DE)\n"
+"Project-Id-Version: BuddyPress 1.2.7 (de_DE)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-10-20 22:54+0100\n"
+"POT-Creation-Date: 2010-12-31 22:08+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Dennis Morhardt <info@dennismorhardt.de>\n"
 "Language-Team: Dennis Morhardt <info@dennismorhardt.de>\n"
@@ -173,137 +173,137 @@ msgstr "Neuer Kommentar veröffentlicht"
 msgid "%s created the blog %s"
 msgstr "%s hat einen neuen Blog angelegt: %s"
 
-#: bp-blogs.php:423
+#: bp-blogs.php:422
 #, php-format
 msgid "%s wrote a new blog post: %s"
 msgstr "%s hat einen einen neuen Blogartikel geschrieben: %s"
 
-#: bp-blogs.php:497
+#: bp-blogs.php:498
 #, php-format
 msgid "%s commented on the blog post %s"
 msgstr "%s hat den Blogeintrag '%s' kommentiert:"
 
+#: bp-core.php:305
 #: bp-core.php:306
-#: bp-core.php:307
 msgid "BuddyPress"
 msgstr "BuddyPress"
 
-#: bp-core.php:313
+#: bp-core.php:312
 msgid "General Settings"
 msgstr "Allgemeine Einstellungen"
 
-#: bp-core.php:314
+#: bp-core.php:313
 msgid "Component Setup"
 msgstr "Komponenten-Installation"
 
-#: bp-core.php:359
+#: bp-core.php:358
 #: bp-xprofile.php:172
 msgid "Profile"
 msgstr "Profil"
 
-#: bp-core.php:370
+#: bp-core.php:369
 #: bp-xprofile.php:177
 msgid "Public"
 msgstr "Öffentliches Profil"
 
-#: bp-core.php:380
+#: bp-core.php:379
 #: bp-xprofile.php:183
 msgid "My Profile"
 msgstr "Mein Profil"
 
-#: bp-core.php:476
+#: bp-core.php:475
 msgid "User marked as spammer. Spam users are visible only to site admins."
 msgstr "Benutzer als Spammer markiert. Spam-Benutzer sind nur für blogübergreifenden Administratoren sichtbar."
 
-#: bp-core.php:478
+#: bp-core.php:477
 msgid "User removed as spammer."
 msgstr "Benutzer-Status \"Spammer\" entfernt."
 
-#: bp-core.php:512
+#: bp-core.php:511
 #, php-format
 msgid "%s has been deleted from the system."
 msgstr "%s wurde aus dem System gelöscht."
 
-#: bp-core.php:514
+#: bp-core.php:513
 #, php-format
 msgid "There was an error deleting %s from the system. Please try again."
 msgstr "Ein Fehler ist beim Löschen des Benutzers %s aufgetreten. Versuche es erneut."
 
-#: bp-core.php:1417
+#: bp-core.php:1416
 msgid "year"
 msgstr "Jahr"
 
-#: bp-core.php:1417
+#: bp-core.php:1416
 msgid "years"
 msgstr "Jahre"
 
-#: bp-core.php:1418
+#: bp-core.php:1417
 msgid "month"
 msgstr "Monat"
 
-#: bp-core.php:1418
+#: bp-core.php:1417
 msgid "months"
 msgstr "Monaten"
 
-#: bp-core.php:1419
+#: bp-core.php:1418
 msgid "week"
 msgstr "Woche"
 
-#: bp-core.php:1419
+#: bp-core.php:1418
 msgid "weeks"
 msgstr "Wochen"
 
-#: bp-core.php:1420
+#: bp-core.php:1419
 msgid "day"
 msgstr "Tag"
 
-#: bp-core.php:1420
+#: bp-core.php:1419
 msgid "days"
 msgstr "Tagen"
 
-#: bp-core.php:1421
+#: bp-core.php:1420
 msgid "hour"
 msgstr "Stunde"
 
-#: bp-core.php:1421
+#: bp-core.php:1420
 msgid "hours"
 msgstr "Stunden"
 
-#: bp-core.php:1422
+#: bp-core.php:1421
 msgid "minute"
 msgstr "Minute"
 
-#: bp-core.php:1422
+#: bp-core.php:1421
 msgid "minutes"
 msgstr "Minuten"
 
-#: bp-core.php:1423
+#: bp-core.php:1422
 msgid "second"
 msgstr "Sekunde"
 
-#: bp-core.php:1423
-#: bp-core.php:1475
+#: bp-core.php:1422
+#: bp-core.php:1474
 msgid "seconds"
 msgstr "Sekunden"
 
-#: bp-core.php:1442
+#: bp-core.php:1441
 msgid "sometime"
 msgstr "irgendwann"
 
-#: bp-core.php:1525
+#: bp-core.php:1524
 msgid "not recently active"
 msgstr "zurzeit nicht aktiv"
 
-#: bp-core.php:1989
+#: bp-core.php:2034
 msgid "IMPORTANT: <a href=\"http://codex.buddypress.org/getting-started/upgrading-from-10x/\">Read this before attempting to update BuddyPress</a>"
 msgstr "WICHTIG: <a href=\"http://codex.buddypress.org/getting-started/upgrading-from-10x/\">Lese bitte vorher unsere Anleitung bevor du BuddyPress aktualisiert.</a>"
 
-#: bp-core.php:2018
+#: bp-core.php:2063
 #, php-format
 msgid "<strong>BuddyPress is almost ready</strong>. You must <a href=\"%s\">update your permalink structure</a> to something other than the default for it to work."
 msgstr "<strong>Die Installation von BuddyPress ist fast abgeschlossen</strong>. Du musst deine <a href=\"%s\">Permalink-Struktur</a> aktualisieren (mit dem Standardwert kann BuddyPress leider nicht laufen)."
 
-#: bp-core.php:2027
+#: bp-core.php:2072
 #, php-format
 msgid "<strong>BuddyPress is ready</strong>. You'll need to <a href='%s'>activate a BuddyPress compatible theme</a> to take advantage of all of the features. We've bundled a default theme, but you can always <a href='%s'>install some other compatible themes</a> or <a href='%s'>upgrade your existing WordPress theme</a>."
 msgstr "<strong>Die Einrichtung von BuddyPress ist fast abgeschlossen</strong>. Du müsst noch <a href='%s'>ein BuddyPress-Kompatibles Theme aktivieren</a> um alle Funktionen nutzen zu können. Nutze entweder das mitgelieferte Standard-Theme, <a href='%s'>lade dir ein kompatibles Themes direkt herunter</a> oder <a href='%s'>mache dein aktuelles Theme für BuddyPress fit</a>."
@@ -1554,27 +1554,31 @@ msgstr "Anmelden"
 msgid "Sign Up"
 msgstr "Registrieren"
 
-#: bp-core/bp-core-adminbar.php:62
+#: bp-core/bp-core-adminbar.php:61
 msgid "My Account"
 msgstr "Mein Benutzerkonto"
 
-#: bp-core/bp-core-adminbar.php:94
+#: bp-core/bp-core-adminbar.php:93
 msgid "Log Out"
 msgstr "Abmelden"
 
-#: bp-core/bp-core-adminbar.php:128
+#: bp-core/bp-core-adminbar.php:129
+#: bp-core/bp-core-adminbar.php:155
 msgid "Dashboard"
 msgstr "Dashboard"
 
-#: bp-core/bp-core-adminbar.php:129
+#: bp-core/bp-core-adminbar.php:130
+#: bp-core/bp-core-adminbar.php:160
 msgid "New Post"
 msgstr "Neuer Artikel"
 
-#: bp-core/bp-core-adminbar.php:130
+#: bp-core/bp-core-adminbar.php:131
+#: bp-core/bp-core-adminbar.php:161
 msgid "Manage Posts"
 msgstr "Artikel verwalten"
 
-#: bp-core/bp-core-adminbar.php:131
+#: bp-core/bp-core-adminbar.php:132
+#: bp-core/bp-core-adminbar.php:162
 msgid "Manage Comments"
 msgstr "Kommentare verwalten"
 
@@ -1582,32 +1586,32 @@ msgstr "Kommentare verwalten"
 msgid "Create a Blog!"
 msgstr "Einen Blog anlegen"
 
-#: bp-core/bp-core-adminbar.php:159
+#: bp-core/bp-core-adminbar.php:179
 #: bp-core/bp-core-settings.php:22
 msgid "Notifications"
 msgstr "Benachrichtigungen"
 
-#: bp-core/bp-core-adminbar.php:177
+#: bp-core/bp-core-adminbar.php:200
 msgid "No new notifications."
 msgstr "Keine neuen Benachrichtigungen."
 
-#: bp-core/bp-core-adminbar.php:198
+#: bp-core/bp-core-adminbar.php:227
 msgid "Blog Authors"
 msgstr "Blogautoren"
 
-#: bp-core/bp-core-adminbar.php:222
+#: bp-core/bp-core-adminbar.php:252
 msgid "Visit"
 msgstr "Mehr..."
 
-#: bp-core/bp-core-adminbar.php:224
+#: bp-core/bp-core-adminbar.php:254
 msgid "Random Member"
 msgstr "Zufallsmitglied"
 
-#: bp-core/bp-core-adminbar.php:227
+#: bp-core/bp-core-adminbar.php:258
 msgid "Random Group"
 msgstr "Zufallsgruppe"
 
-#: bp-core/bp-core-adminbar.php:231
+#: bp-core/bp-core-adminbar.php:264
 msgid "Random Blog"
 msgstr "Zufallsblog"
 
@@ -1806,7 +1810,7 @@ msgid "Your new avatar was uploaded successfully"
 msgstr "Dein neues Profilbild wurde erfolgreich hochgeladen!"
 
 #: bp-core/bp-core-signup.php:222
-#: bp-core/bp-core-signup.php:455
+#: bp-core/bp-core-signup.php:412
 msgid "There was an error activating your account, please try again."
 msgstr "Es gab ein Problem beim Aktivieren deines Benutzerkontos. Bitte versuche es noch einmal."
 
@@ -1814,53 +1818,53 @@ msgstr "Es gab ein Problem beim Aktivieren deines Benutzerkontos. Bitte versuche
 msgid "Your account is now active!"
 msgstr "Dein Benutzerkonto ist nun aktiviert!"
 
-#: bp-core/bp-core-signup.php:318
+#: bp-core/bp-core-signup.php:275
 msgid "Please enter a username"
 msgstr "Bitte gib einen Benutzernamen an"
 
-#: bp-core/bp-core-signup.php:327
+#: bp-core/bp-core-signup.php:284
 msgid "Only lowercase letters and numbers allowed"
 msgstr "Im Benutzernamen sind nur Zahlen und kleingeschriebene Buchstaben erlaubt."
 
-#: bp-core/bp-core-signup.php:330
+#: bp-core/bp-core-signup.php:287
 msgid "Username must be at least 4 characters"
 msgstr "Der Benutzername muss mindestens vier Zeichen lang sein"
 
-#: bp-core/bp-core-signup.php:333
+#: bp-core/bp-core-signup.php:290
 msgid "Sorry, usernames may not contain the character \"_\"!"
 msgstr "Das Zeichen \"_\" (Unterstrich) ist im Benutzername nicht gestattet."
 
-#: bp-core/bp-core-signup.php:340
+#: bp-core/bp-core-signup.php:297
 msgid "Sorry, usernames must have letters too!"
 msgstr "Der Benutzername muss mindestens einen Buchstaben enthalten."
 
-#: bp-core/bp-core-signup.php:343
+#: bp-core/bp-core-signup.php:300
 msgid "Please check your email address."
 msgstr "Bitte überprüfe deine E-Mail-Adresse."
 
-#: bp-core/bp-core-signup.php:351
+#: bp-core/bp-core-signup.php:308
 msgid "Sorry, that email address is not allowed!"
 msgstr "Die E-Mail-Adresse ist nicht gestattet."
 
-#: bp-core/bp-core-signup.php:356
+#: bp-core/bp-core-signup.php:313
 msgid "Sorry, that username already exists!"
 msgstr "Dieser Benutzername ist leider schon vergeben."
 
-#: bp-core/bp-core-signup.php:360
+#: bp-core/bp-core-signup.php:317
 msgid "Sorry, that email address is already used!"
 msgstr "Diese E-Mail-Adresse wird schon genutzt."
 
-#: bp-core/bp-core-signup.php:395
+#: bp-core/bp-core-signup.php:352
 #, php-format
 msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
 msgstr "<strong>Fehler</strong>: Wir konnten die Registierung leider nicht korrekt durchführen, wende dich bitte an unsere a href=\"mailto:%s\">Administratoren</a>!"
 
-#: bp-core/bp-core-signup.php:480
-#: bp-core/bp-core-signup.php:484
+#: bp-core/bp-core-signup.php:437
+#: bp-core/bp-core-signup.php:441
 msgid "Invalid activation key"
 msgstr "Ungültiger Aktivierungsschlüssel"
 
-#: bp-core/bp-core-signup.php:527
+#: bp-core/bp-core-signup.php:484
 #, php-format
 msgid "%s became a registered member"
 msgstr "%s ist nun ein Mitglied"
@@ -2153,11 +2157,11 @@ msgstr " zum Stichwort: \"%s\""
 msgid "Viewing topic %1$s to %2$s (%3$s total topics%4$s)"
 msgstr "%1$s bis %2$s (von insgesamt %3$s Themen%4$s)"
 
-#: bp-forums/bp-forums-templatetags.php:975
+#: bp-forums/bp-forums-templatetags.php:977
 msgid "Edit"
 msgstr "Bearbeiten"
 
-#: bp-forums/bp-forums-templatetags.php:1008
+#: bp-forums/bp-forums-templatetags.php:1010
 #, php-format
 msgid "Viewing post %1$s to %2$s (%3$s total posts)"
 msgstr "%1$s bis %2$s (von insgesamt %3$s Antworten)"
@@ -2946,7 +2950,7 @@ msgstr "Deine Kommentar wird moderiert."
 msgid "Activity Stream"
 msgstr "Aktivitätsstream"
 
-#: bp-themes/bp-default/functions.php:328
+#: bp-themes/bp-default/functions.php:329
 #, php-format
 msgid "Theme activated! This theme contains <a href=\"%s\">custom header image</a> support and <a href=\"%s\">sidebar widgets</a>."
 msgstr "Theme aktiviert! Dieses Theme unterstützt <a href=\"%s\">eine eigene Header-Grafik</a> sowie <a href=\"%s\">Sidebar-Widgets</a>."
@@ -4161,24 +4165,18 @@ msgstr "November"
 msgid "December"
 msgstr "Dezember"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:632
+#: bp-xprofile/bp-xprofile-templatetags.php:634
 msgid "Avatar uploads are currently disabled. Why not use a <a href=\"http://gravatar.com\" target=\"_blank\">gravatar</a> instead?"
 msgstr "Das Hochladen von Avataren ist zurzeit deaktiviert. Wieso nutzt du nicht stattdesen <a href=\"http://gravatar.com\" target=\"_blank\">Gravatar</a>?"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:641
+#: bp-xprofile/bp-xprofile-templatetags.php:643
 msgid "Profile not recently updated"
 msgstr "Profil wurde nicht kürzlich aktualisert"
 
-#: bp-xprofile/bp-xprofile-templatetags.php:652
+#: bp-xprofile/bp-xprofile-templatetags.php:654
 #, php-format
 msgid "Profile updated %s ago"
 msgstr "Profil vor %s aktualisiert"
-
-#~ msgid "at"
-#~ msgstr "um"
-
-#~ msgid ",|Separator in time since"
-#~ msgstr " und|Separator in time since"
 
 #, fuzzy
 #~ msgid "Sorry, post is too old."
@@ -4229,6 +4227,10 @@ msgstr "Profil vor %s aktualisiert"
 #~ msgstr "Kein Server spezifiziert"
 
 #, fuzzy
+#~ msgid "Could not determine site URI"
+#~ msgstr "Der Begriff konnte nicht in die Datenbank eingefügt werden"
+
+#, fuzzy
 #~ msgid "Forum not found."
 #~ msgstr "Seite nicht gefunden"
 
@@ -4256,6 +4258,10 @@ msgstr "Profil vor %s aktualisiert"
 #, fuzzy
 #~ msgid "You are not allowed to change this user's password."
 #~ msgstr "Dieser Benutzer darf den Autor des Artikels nicht verändern."
+
+#, fuzzy
+#~ msgid "%s is an invalid username. How's this one?"
+#~ msgstr "FTP Benutzername (erforderlich)"
 
 #, fuzzy
 #~ msgid "%s is an invalid username."
@@ -4535,12 +4541,20 @@ msgstr "Profil vor %s aktualisiert"
 #~ "Du hast leider nicht die nötigen Rechte um diesen Artikel zu löschen."
 
 #, fuzzy
+#~ msgid "Could not retrieve hot topic tags."
+#~ msgstr "Tagcloud"
+
+#, fuzzy
 #~ msgid "No hot topic tags found."
 #~ msgstr "Es wurden keine Artikel gefunden, die Schlagwörter haben."
 
 #, fuzzy
 #~ msgid "No topic tags found."
 #~ msgstr "Es wurden keine Artikel gefunden, die Schlagwörter haben."
+
+#, fuzzy
+#~ msgid "Could not retrieve all topic tags."
+#~ msgstr "Tagcloud"
 
 #, fuzzy
 #~ msgid "The tag id is invalid."
@@ -4585,6 +4599,14 @@ msgstr "Profil vor %s aktualisiert"
 #, fuzzy
 #~ msgid "The tag could not be renamed."
 #~ msgstr "Das Update konnte nicht entpackt werden"
+
+#, fuzzy
+#~ msgid "The old tag id is invalid."
+#~ msgstr "Das Seitentemplate ist ungültig."
+
+#, fuzzy
+#~ msgid "The new tag id is invalid."
+#~ msgstr "Das Seitentemplate ist ungültig."
 
 #, fuzzy
 #~ msgid "No old tag found."
@@ -4714,6 +4736,10 @@ msgstr "Profil vor %s aktualisiert"
 #~ msgstr "Zur Seite"
 
 #, fuzzy
+#~ msgid "You don't have the authority to mess with the forums."
+#~ msgstr "Du bist nicht berechtigt dieses Element aufzurufen."
+
+#, fuzzy
 #~ msgid "Bad forum name.  Go back and try again."
 #~ msgstr "Es gab einen Fehler beim Schneiden, versuche es bitte noch einmal."
 
@@ -4724,6 +4750,14 @@ msgstr "Profil vor %s aktualisiert"
 #, fuzzy
 #~ msgid "No forums to update!"
 #~ msgstr "Keine Verbindung zum Server"
+
+#, fuzzy
+#~ msgid "You don't have the authority to kill off the forums."
+#~ msgstr "Du bist nicht berechtigt dieses Element aufzurufen."
+
+#, fuzzy
+#~ msgid "Error occured while trying to delete forum"
+#~ msgstr "Du hast nicht die nötigen Rechte, um die Entwurfsvorschau zu sehen."
 
 #, fuzzy
 #~ msgid "There is a problem with that post, pardner."
@@ -4961,6 +4995,10 @@ msgstr "Profil vor %s aktualisiert"
 #~ msgstr "Zeitzone"
 
 #, fuzzy
+#~ msgid "Date and time format"
+#~ msgstr "0"
+
+#, fuzzy
 #~ msgid "Date format"
 #~ msgstr "Datumsformat"
 
@@ -5098,6 +5136,14 @@ msgstr "Profil vor %s aktualisiert"
 #, fuzzy
 #~ msgid "Blog address (URL)"
 #~ msgstr "Blog-Adresse (URL)"
+
+#, fuzzy
+#~ msgid "WordPress \"auth\" cookie salt"
+#~ msgstr "WordPress.com-API-Schlüssel"
+
+#, fuzzy
+#~ msgid "WordPress \"secure auth\" cookie salt"
+#~ msgstr "WordPress.com-API-Schlüssel"
 
 #, fuzzy
 #~ msgid "WordPress \"logged in\" cookie salt"
@@ -5444,6 +5490,10 @@ msgstr "Profil vor %s aktualisiert"
 #~ msgstr "Abmelden"
 
 #, fuzzy
+#~ msgid "&laquo; Go back to forums"
+#~ msgstr "&larr; Zurück zu %s"
+
+#, fuzzy
 #~ msgid "Go to admin"
 #~ msgstr "Zum Administrator befördern"
 
@@ -5481,6 +5531,10 @@ msgstr "Profil vor %s aktualisiert"
 #, fuzzy
 #~ msgid "Step 1"
 #~ msgstr "Schritt 1"
+
+#, fuzzy
+#~ msgid "%1$s - %2$s"
+#~ msgstr "%1$s um %2$s"
 
 #, fuzzy
 #~ msgid "Database configuration"
@@ -5541,6 +5595,19 @@ msgstr "Profil vor %s aktualisiert"
 #~ msgstr "Die Aktualisierung wurde abgeschlossen."
 
 #, fuzzy
+#~ msgid ""
+#~ "A valid configuration file was found at <code>bb-config.php</code><br /"
+#~ ">You may continue to the next step."
+#~ msgstr ""
+#~ "Fertig! Die Konfigurationseinstellungen wurden in das Hauptverzeichnis "
+#~ "deiner WordPress-Installation in der Datei <code>bb-config.php</code> "
+#~ "gespeichert."
+
+#, fuzzy
+#~ msgid "bbPress is already installed, but appears to require an upgrade."
+#~ msgstr "Diese Version ist bereits installiert."
+
+#, fuzzy
 #~ msgid "bbPress is already installed."
 #~ msgstr "Diese Version ist bereits installiert."
 
@@ -5594,6 +5661,10 @@ msgstr "Profil vor %s aktualisiert"
 #~ msgstr "DotClear-Tabellenpräfix:"
 
 #, fuzzy
+#~ msgid "Save database configuration file"
+#~ msgstr "Akismet-Konfiguration"
+
+#, fuzzy
 #~ msgid "&laquo; Go back"
 #~ msgstr "&larr; Zurück zu %s"
 
@@ -5624,6 +5695,14 @@ msgstr "Profil vor %s aktualisiert"
 #, fuzzy
 #~ msgid "WordPress \"auth\" cookie key"
 #~ msgstr "WordPress.com-API-Schlüssel"
+
+#, fuzzy
+#~ msgid "WordPress \"secure auth\" cookie key"
+#~ msgstr "WordPress.com-API-Schlüssel"
+
+#, fuzzy
+#~ msgid "WordPress \"logged in\" cookie key"
+#~ msgstr "Administratoren"
 
 #, fuzzy
 #~ msgid "Add user database integration settings"
@@ -5711,6 +5790,10 @@ msgstr "Profil vor %s aktualisiert"
 #~ "aufgetreten. Bitte veruche es erneut."
 
 #, fuzzy
+#~ msgid "Setting up custom user table constants"
+#~ msgstr "[%s] Registrierung eines neuen Benutzers"
+
+#, fuzzy
 #~ msgid "Database installation failed!!!"
 #~ msgstr "Die Themeinstallation ist fehlgeschlagen."
 
@@ -5737,6 +5820,50 @@ msgstr "Profil vor %s aktualisiert"
 #, fuzzy
 #~ msgid "Blog address (URL):"
 #~ msgstr "Blog-Adresse (URL)"
+
+#, fuzzy
+#~ msgid "WordPress cookie keys set."
+#~ msgstr "WordPress.com-API-Schlüssel"
+
+#, fuzzy
+#~ msgid "WordPress cookie keys not set."
+#~ msgstr "WordPress.com-API-Schlüssel"
+
+#, fuzzy
+#~ msgid "WordPress \"auth\" cookie salt set from input."
+#~ msgstr "WordPress.com-API-Schlüssel"
+
+#, fuzzy
+#~ msgid "WordPress \"secure auth\" cookie salt set from input."
+#~ msgstr "WordPress.com-API-Schlüssel"
+
+#, fuzzy
+#~ msgid "WordPress \"logged in\" cookie salt set from input."
+#~ msgstr "Administratoren"
+
+#, fuzzy
+#~ msgid "WordPress \"auth\" cookie salt set."
+#~ msgstr "WordPress.com-API-Schlüssel"
+
+#, fuzzy
+#~ msgid "WordPress \"auth\" cookie salt not set."
+#~ msgstr "WordPress.com-API-Schlüssel"
+
+#, fuzzy
+#~ msgid "WordPress \"secure auth\" cookie salt set."
+#~ msgstr "WordPress.com-API-Schlüssel"
+
+#, fuzzy
+#~ msgid "WordPress \"secure auth\" cookie salt not set."
+#~ msgstr "WordPress.com-API-Schlüssel"
+
+#, fuzzy
+#~ msgid "WordPress \"logged in\" cookie salt set."
+#~ msgstr "Administratoren"
+
+#, fuzzy
+#~ msgid "WordPress \"logged in\" cookie salt not set."
+#~ msgstr "Administratoren"
 
 #, fuzzy
 #~ msgid "User database table prefix:"
@@ -5803,6 +5930,10 @@ msgstr "Profil vor %s aktualisiert"
 #~ msgstr "Dieser Benutzername wurde schon aktiviert."
 
 #, fuzzy
+#~ msgid "Existing key master entered!"
+#~ msgstr "Neuen Benutzer eingerichtet."
+
+#, fuzzy
 #~ msgid "Your bbPress password"
 #~ msgstr "[%s] Dein neues Passwort"
 
@@ -5821,6 +5952,10 @@ msgstr "Profil vor %s aktualisiert"
 #, fuzzy
 #~ msgid "Your existing password"
 #~ msgstr "[%s] Dein neues Passwort"
+
+#, fuzzy
+#~ msgid "Key master role assigned to existing user"
+#~ msgstr "Die Nachricht konnte nicht auf die Pinnwand geschrieben werden."
 
 #, fuzzy
 #~ msgid "Key master role could not be assigned to existing user!"
@@ -6013,6 +6148,26 @@ msgstr "Profil vor %s aktualisiert"
 
 #, fuzzy
 #~ msgid "Count posts of every topic"
+#~ msgstr "Meine Beiträge <span class=\"count\">(%s)</span>"
+
+#, fuzzy
+#~ msgid "Count voices of every topic"
+#~ msgstr "Meine Beiträge <span class=\"count\">(%s)</span>"
+
+#, fuzzy
+#~ msgid "Count deleted posts on every topic"
+#~ msgstr "Meine Beiträge <span class=\"count\">(%s)</span>"
+
+#, fuzzy
+#~ msgid "Count topics and posts in every forum"
+#~ msgstr "Meine Beiträge <span class=\"count\">(%s)</span>"
+
+#, fuzzy
+#~ msgid "Count tags for every topic"
+#~ msgstr "Meine Beiträge <span class=\"count\">(%s)</span>"
+
+#, fuzzy
+#~ msgid "Count topics for every tag"
 #~ msgstr "Meine Beiträge <span class=\"count\">(%s)</span>"
 
 #, fuzzy
@@ -6413,13 +6568,30 @@ msgstr "Profil vor %s aktualisiert"
 #~ msgstr "Dein Versuch, die Kategorie hinzuzufügen, ist fehlgeschlagen."
 
 #, fuzzy
+#~ msgid ""
+#~ "Your attempt to change the resolution status of this topic has failed."
+#~ msgstr "Dein Versuch, die Kategorie hinzuzufügen, ist fehlgeschlagen."
+
+#, fuzzy
 #~ msgid "Your attempt to delete this topic has failed."
 #~ msgstr ""
 #~ "Dein Versuch, die Kategorie &#8220;%s&#8221; zu löschen, ist "
 #~ "fehlgeschlagen."
 
 #, fuzzy
+#~ msgid "Your attempt to change the status of this topic has failed."
+#~ msgstr "Dein Versuch, die Kategorie hinzuzufügen, ist fehlgeschlagen."
+
+#, fuzzy
+#~ msgid "Your attempt to change the sticky status of this topic has failed."
+#~ msgstr "Dein Versuch, die Kategorie hinzuzufügen, ist fehlgeschlagen."
+
+#, fuzzy
 #~ msgid "Your attempt to move this topic has failed."
+#~ msgstr "Dein Versuch, die Kategorie hinzuzufügen, ist fehlgeschlagen."
+
+#, fuzzy
+#~ msgid "Your attempt to add this tag to this topic has failed."
 #~ msgstr "Dein Versuch, die Kategorie hinzuzufügen, ist fehlgeschlagen."
 
 #, fuzzy
@@ -6427,7 +6599,20 @@ msgstr "Profil vor %s aktualisiert"
 #~ msgstr "Dein Versuch, die Kategorie hinzuzufügen, ist fehlgeschlagen."
 
 #, fuzzy
+#~ msgid "Your attempt to submit these tags has failed."
+#~ msgstr "Dein Versuch, diesen Artikel zu erstellen, ist fehlgeschlagen."
+
+#, fuzzy
 #~ msgid "Your attempt to destroy this tag has failed."
+#~ msgstr "Dein Versuch, die Kategorie hinzuzufügen, ist fehlgeschlagen."
+
+#, fuzzy
+#~ msgid "Your attempt to remove this tag from this topic has failed."
+#~ msgstr "Dein Versuch, die Kategorie hinzuzufügen, ist fehlgeschlagen."
+
+#, fuzzy
+#~ msgid ""
+#~ "Your attempt to toggle your favorite status for this topic has failed."
 #~ msgstr "Dein Versuch, die Kategorie hinzuzufügen, ist fehlgeschlagen."
 
 #, fuzzy
@@ -6449,6 +6634,10 @@ msgstr "Profil vor %s aktualisiert"
 #~ msgstr ""
 #~ "Dein Versuch, die Kategorie &#8220;%s&#8221; zu löschen, ist "
 #~ "fehlgeschlagen."
+
+#, fuzzy
+#~ msgid "Your attempt to recount these items has failed."
+#~ msgstr "Dein Versuch, die Kategorie hinzuzufügen, ist fehlgeschlagen."
 
 #, fuzzy
 #~ msgid "Your attempt to switch themes has failed."
@@ -6529,6 +6718,10 @@ msgstr "Profil vor %s aktualisiert"
 #, fuzzy
 #~ msgid "favorites"
 #~ msgstr "Favoriten"
+
+#, fuzzy
+#~ msgid "This topic is one of your %favLinkYes% [%favDel%]"
+#~ msgstr "%s hat auf einen deiner Updates geantwortet"
 
 #, fuzzy
 #~ msgid "&times;"
@@ -6695,6 +6888,10 @@ msgstr "Profil vor %s aktualisiert"
 #~ msgstr "%1$s %2$s %3$s Tag Newsfeed"
 
 #, fuzzy
+#~ msgid "Destroy"
+#~ msgstr "%1$s %2$s %3$s Tag Newsfeed"
+
+#, fuzzy
 #~ msgid "- None -"
 #~ msgstr "keins"
 
@@ -6732,6 +6929,10 @@ msgstr "Profil vor %s aktualisiert"
 
 #, fuzzy
 #~ msgid "Adding column: %s"
+#~ msgstr "Spalte entfernen"
+
+#, fuzzy
+#~ msgid "Setting default on column: %s"
 #~ msgstr "Spalte entfernen"
 
 #, fuzzy
@@ -7219,6 +7420,12 @@ msgstr "Profil vor %s aktualisiert"
 #~ msgstr ""
 #~ "<abbr title=\"Really Simple Syndication\">RSS</abbr>-Feed für Kommentare "
 #~ "zu diesem Artikel."
+
+#~ msgid "at"
+#~ msgstr "um"
+
+#~ msgid ",|Separator in time since"
+#~ msgstr " und|Separator in time since"
 
 #~ msgid "Recent Comments"
 #~ msgstr "Aktuelle Kommentare"
