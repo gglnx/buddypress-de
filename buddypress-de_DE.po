@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: BuddyPress 1.2.8 (de_DE)\n"
+"Project-Id-Version: BuddyPress 1.2.9 (de_DE)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-02-23 23:00+0100\n"
+"POT-Creation-Date: 2011-07-05 09:57+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Dennis Morhardt <info@dennismorhardt.de>\n"
 "Language-Team: Dennis Morhardt <info@dennismorhardt.de>\n"
@@ -129,21 +129,21 @@ msgstr "Aktivität aus den Favoriten gelöscht."
 msgid "There was an error removing that activity as a favorite, please try again."
 msgstr "Es gab ein Problem beim Löschen dieses Aktivität aus deinen Favoriten, versuche es bitte nochmal."
 
-#: bp-activity.php:699
+#: bp-activity.php:700
 #, php-format
 msgid "%s posted an update:"
 msgstr "%s hat ein Update veröffentlicht:"
 
-#: bp-activity.php:752
+#: bp-activity.php:753
 #, php-format
 msgid "%s posted a new activity comment:"
 msgstr "%s hat ein neuen Kommentare geschrieben:"
 
-#: bp-activity.php:967
+#: bp-activity.php:968
 msgid "Thumbnail"
 msgstr "Vorschaubild"
 
-#: bp-activity.php:1195
+#: bp-activity.php:1196
 msgid "Posted an update"
 msgstr "Update veröffentlicht"
 
@@ -513,7 +513,7 @@ msgstr "Gruppeneinladung wurde akzeptiert"
 
 #: bp-groups.php:306
 #: bp-groups.php:1774
-#: bp-groups.php:2479
+#: bp-groups.php:2490
 #, php-format
 msgid "%s joined the group %s"
 msgstr "%s ist der Gruppe %s beigetreten"
@@ -1672,16 +1672,16 @@ msgstr "Gruppe"
 msgid "Are you sure?"
 msgstr "Bist du dir sicher?"
 
-#: bp-core/bp-core-filters.php:29
+#: bp-core/bp-core-filters.php:63
 msgid "noreply"
 msgstr "bitte-nicht-antworten"
 
-#: bp-core/bp-core-filters.php:133
-#: bp-core/bp-core-filters.php:157
+#: bp-core/bp-core-filters.php:167
+#: bp-core/bp-core-filters.php:191
 msgid "[User Set]"
 msgstr "[Vom Benutzer gewählt]"
 
-#: bp-core/bp-core-filters.php:177
+#: bp-core/bp-core-filters.php:211
 #, php-format
 msgid ""
 "Thanks for registering! To complete the activation of your account and blog, please click the following link:\n"
@@ -1704,12 +1704,12 @@ msgstr ""
 "\n"
 "%s"
 
-#: bp-core/bp-core-filters.php:178
+#: bp-core/bp-core-filters.php:212
 #, php-format
 msgid "Activate %s"
 msgstr "Aktiviere %s"
 
-#: bp-core/bp-core-filters.php:209
+#: bp-core/bp-core-filters.php:243
 #, php-format
 msgid ""
 "Thanks for registering! To complete the activation of your account please click the following link:\n"
@@ -1722,7 +1722,7 @@ msgstr ""
 "%s\n"
 "\n"
 
-#: bp-core/bp-core-filters.php:210
+#: bp-core/bp-core-filters.php:244
 msgid "Activate Your Account"
 msgstr "Aktiviere dein Benutzerkonto"
 
@@ -1979,11 +1979,11 @@ msgstr "Foren"
 msgid "Blogs"
 msgstr "Blogs"
 
-#: bp-core/bp-core-templatetags.php:1213
+#: bp-core/bp-core-templatetags.php:1225
 msgid "Your Avatar"
 msgstr "Dein Profilbild"
 
-#: bp-core/bp-core-templatetags.php:1286
+#: bp-core/bp-core-templatetags.php:1311
 msgid "a user"
 msgstr "ein Benutzer"
 
