@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: BuddyPress 1.2.9 (de_DE)\n"
+"Project-Id-Version: BuddyPress 1.2.10 (de_DE)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-07-05 09:57+0100\n"
+"POT-Creation-Date: 2011-09-11 15:01+0100\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Dennis Morhardt <info@dennismorhardt.de>\n"
 "Language-Team: Dennis Morhardt <info@dennismorhardt.de>\n"
@@ -1824,7 +1824,7 @@ msgstr "Bitte gib einen Benutzernamen an"
 
 #: bp-core/bp-core-signup.php:284
 msgid "Only lowercase letters and numbers allowed"
-msgstr "Im Benutzernamen sind nur Zahlen und kleingeschriebene Buchstaben erlaubt."
+msgstr "Im Benutzernamen sind nur Zahlen und kleingeschriebene Buchstaben erlaubt, keine Sonder- oder Leerzeichen."
 
 #: bp-core/bp-core-signup.php:287
 msgid "Username must be at least 4 characters"
